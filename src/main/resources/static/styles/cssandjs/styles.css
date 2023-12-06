@@ -1,0 +1,30 @@
+.display-cambio{
+    display:none;
+}
+
+.decoracion-btn{
+        text-decoration: none;
+
+}
+
+textarea {
+    resize: none;
+}
+
+.content-post{
+    text-align: center;
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.display-line{
+     display: inline;
+}
+
+.text-titulo{
+    font-size: 20px;
+    font-weight: bold;
+
+}
